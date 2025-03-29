@@ -1,0 +1,5 @@
+###! Use .gitignore in your respective folders instead of this file
+###! This file is only for the root of the project
+
+# Node artifacts
+/node_modules
